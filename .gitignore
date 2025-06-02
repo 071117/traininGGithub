@@ -1,0 +1,15 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Файлы PyCharm
+.idea/
+*.iml
+
+# Зависимости
+requirements.txt
